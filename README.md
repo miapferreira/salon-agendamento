@@ -199,3 +199,7 @@ Este projeto foi desenvolvido como um sistema completo de agendamento para salõ
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
+
+
+
+
